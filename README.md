@@ -23,7 +23,7 @@ Algorithms: Linear Regression, Random Forest, LSTM (based on use case)
 
 Visualization: Matplotlib, Seaborn
 
-Platform (optional): Jupyter Notebook / Google Colab
+Platform (optional): Spyder/Visual studio code
 
 Conclusion: AirAware aims to be a useful tool for individuals, communities, and authorities by offering insights into upcoming pollution trends. With accurate forecasting, it helps promote cleaner environments and informed lifestyle decisions, contributing to healthier living and environmental sustainability.
 
